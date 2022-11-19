@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/war-card-game/static/css/main.277b098f.css",
+    "main.js": "/github.io/war-card-game/static/js/main.cd7c11af.js",
+    "static/js/787.5ac7ae34.chunk.js": "/github.io/war-card-game/static/js/787.5ac7ae34.chunk.js",
+    "index.html": "/github.io/war-card-game/index.html",
+    "main.277b098f.css.map": "/github.io/war-card-game/static/css/main.277b098f.css.map",
+    "main.cd7c11af.js.map": "/github.io/war-card-game/static/js/main.cd7c11af.js.map",
+    "787.5ac7ae34.chunk.js.map": "/github.io/war-card-game/static/js/787.5ac7ae34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277b098f.css",
+    "static/js/main.cd7c11af.js"
+  ]
+}
