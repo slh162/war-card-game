@@ -1,0 +1,33 @@
+#game{
+    text-align: center;
+border: 3px rgb(57, 255, 47) solid;
+height: 560px;
+width: 550px;
+margin-left: 350px;
+}
+.card{
+    background-color: lightgray;
+    border: 3px black solid;
+    height: 140px;
+width: 100px;
+margin-left: 220px;
+}
+.points{
+    margin: 0px;
+    margin-left: 480px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 15px;
+  padding: 0px;
+}
+.ind{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 400px;
+}
+#pla{
+    font-size: 21px;
+    color: cornflowerblue;
+}
+#com{
+color: crimson;
+}

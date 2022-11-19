@@ -1,0 +1,14 @@
+#fgame{
+    text-align: center;
+border: 3px rgb(57, 255, 47) solid;
+height: 400px;
+width: 400px;
+margin-left: 430px;
+margin-top: 5px;
+}
+#bu{
+    height: 30px;
+    width: 30px;
+    margin-right: 400px;
+    font-size: medium;
+}

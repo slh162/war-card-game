@@ -1,0 +1,25 @@
+#start{
+text-align: center;
+border: 3px rgb(33, 241, 22) solid;
+height: 400px;
+width: 500px;
+margin-left: 350px;
+}
+#war{
+    color: blue;
+}
+button{
+    border-radius: 10px;
+    background-color: deepskyblue;
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+}
+input{
+    width: 260px;
+    height: 60px;
+    border: 2px rgb(72, 198, 65) solid;
+
+}
